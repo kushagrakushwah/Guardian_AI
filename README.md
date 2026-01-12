@@ -176,19 +176,4 @@ Distraction Rule:
 - Computer vision and AI safety projects  
 
 ---
-
-## 📜 License
-
-This project is released under the MIT License.  
-You are free to use, modify, and distribute it.
-
----
-
-## 🙌 Acknowledgements
-
-- MediaPipe Team for Face Landmark Models  
-- Soukupová and Čech (2016) for the Eye Aspect Ratio formulation  
-
----
-
 Drive safe. GuardianAI is watching.
